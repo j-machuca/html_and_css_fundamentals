@@ -63,3 +63,44 @@ grid-template-rows: 2fr repeat(2,1fr);
 ### Explicit vs Implicit rows
 
 Look for resource on how to style implicit rows.
+
+### Item placement with `grid`
+
+To place items inside the grid we can use the tools provided by CSS making use of the grid lines.
+
+We can specify the values before hand or we can use the `span` keyword to tell CSS that the element should occupy n lines.
+
+|  property   | use case                                                                                       |
+| :---------: | :--------------------------------------------------------------------------------------------- |
+| grid-column | specify the start line and/or end line for the element. how many columns should it span acorss |
+|  grid-row   | specify the start line and/or end line for the element. how many rows should it span acorss    |
+
+```css
+my-item {
+  /* make the element occupy the cells from line 2 to line 3 */
+  grid-column: 2/3;
+  /* make the element occupy the cells from line 1 to line 2 */
+  grid-row: 1/2;
+}
+```
+
+### Item Alignment
+
+To align items in the grid CSS gives us several tools.
+
+This will allow us to align the grid tracks inside the container/ distribute empty space.
+
+|    property     | use case                         |
+| :-------------: | :------------------------------- |
+| justify-content | horizontal alignment             |
+|  align-content  | vertical alignment               |
+|       gap       | provide whitespace between items |
+
+The following properties allow us to align the items inside the container.
+
+|   property    | use case                                         |
+| :-----------: | :----------------------------------------------- |
+|  align-items  | same as flexbox. (defaults to `stretch`)         |
+| justify-items | same as flexbox. (defaults to `stretch`)         |
+|  align-self   | same as flexbox. will override general alignment |
+| justify-self  | same as flexbox. will override general alignment |
