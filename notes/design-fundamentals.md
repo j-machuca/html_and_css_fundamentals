@@ -168,6 +168,18 @@ Shadows don't have to be black.
 
 Making elements have a more noticeable border radius makes elements and overall design look more playful.
 
+Typeface is a key factor to help us determine the radius of the containers and elements in the overall design.
+
+Border radius is usually present in the following elements
+
+- Buttons
+- Images
+- Around icons (icon containers)
+- Standout sections
+- Cards
+- Popovers
+- Modals
+
 ## Whitespace
 
 ## Visual Hierarchy

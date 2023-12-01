@@ -9,6 +9,7 @@
   - [Pseudo Classes](#pseudo-classes)
   - [Pseudo Elements](#pseudo-elements)
   - [CSS Shadows](#css-shadows)
+  - [Border Radius](#border-radius)
 
 **CSS** stands for Cascading Style Sheets.
 
@@ -113,12 +114,14 @@ Most common pseudo elements are
 
 To add shadows to elements in CSS we can use the `box-shadow` property.
 
-This property takes 4 or 5 properties.
-
-- First value is the vertical length
-- Second value is the horizontal length
-- Third value is the blur
-- Fourth value (optional) is the scale value. Used to increase the size of the shadow
-- Fifth value is the color of the shadow.
+Link to MDN Docs on [box-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
 
 To add shadows to the text we use `text-shadow` property.
+
+Link to MDN Docs on [text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
+
+## Border Radius
+
+To specify the border radius on an element we can use the `border-radius` property.
+
+Link to MDN Docs on [border-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius)
