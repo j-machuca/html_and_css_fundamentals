@@ -8,6 +8,7 @@
   - [Colors](#colors)
   - [Pseudo Classes](#pseudo-classes)
   - [Pseudo Elements](#pseudo-elements)
+  - [CSS Shadows](#css-shadows)
 
 **CSS** stands for Cascading Style Sheets.
 
@@ -107,3 +108,17 @@ Most common pseudo elements are
 
 - `::before`
 - `::after`
+
+## CSS Shadows
+
+To add shadows to elements in CSS we can use the `box-shadow` property.
+
+This property takes 4 or 5 properties.
+
+- First value is the vertical length
+- Second value is the horizontal length
+- Third value is the blur
+- Fourth value (optional) is the scale value. Used to increase the size of the shadow
+- Fifth value is the color of the shadow.
+
+To add shadows to the text we use `text-shadow` property.

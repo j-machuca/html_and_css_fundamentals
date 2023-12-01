@@ -156,3 +156,4 @@ There are some tags that allow us to specify or group elements that are related 
 |  aside  | Content that is less important. Often used for complementary but nonessential information                                                                        |
 | footer  | Usually indicates contact info, copyright and some site navigation                                                                                               |
 |   div   | Generic tag to group elements together. Has no semantic meaning                                                                                                  |
+| figure  | Also used for images inside cards.                                                                                                                               |

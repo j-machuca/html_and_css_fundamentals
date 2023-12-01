@@ -110,11 +110,63 @@ Always check the contrast between text color and background color.
 
 ## Images/Illustrations
 
+Images in a website can be placed into 4 categories:
+
+- Product Photos
+- Storytelling
+- Illustrations
+- Patterns
+
+Images should be used to support the website's message and story.
+
+If you are going to add text on images consider:
+
+- Making the image darker or brighter. (i.e. using a gradient)
+- Postion text in a neutral area. (where the text does not interfere with the rest of the image).
+- Put the text on a box with a background with a plain background.
+- Always account for high-resolution screens but remember to compress images.
+
 ## Icons
+
+Icons can change the look and feel of the page or application.
+
+There are a lot of icon packs available online always go for `svg` icons.
+
+Always consider the roundness,weight and filled/outlined icons that match websites personality and typography.
+
+Icons help provide visual assistance to the text.
+
+- Features
+- Actions
+- Bullet points
+
+We can use icons and have them set to the same color of the text. When we want to draw attention we can use a different color.
+
+Try adding backgrounds to the icon to make it look bigger if the icon does not look good when scaled up.
 
 ## Shadows
 
+Shadows are used to create a sense of depth in the interface and draw attention.
+
+As the shadow on the element gets bigger it makes the element seem farther away from the screen.
+
+Too many shadows may lead to a poor overal design defeats the point of creating depth.
+
+Always use light shadows, making them too dark will result in a poor design.
+
+Small shadows should be used to draw attention to certain elements.
+
+Medium sized shadows should be used to draw attention to sections or cards to make them stand out.
+
+Large shadows are usually used for navigation, popups or modals.
+
+Adding shadows on user interaction (hover,click) will give a better feeling when interacting with the elements.
+
+Shadows don't have to be black.
+
 ## Border Radius
+
+Making elements have a more noticeable border radius makes elements and overall design look more playful.
 
 ## Whitespace
 
