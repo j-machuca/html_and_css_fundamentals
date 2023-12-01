@@ -104,3 +104,7 @@ The following properties allow us to align the items inside the container.
 | justify-items | same as flexbox. (defaults to `stretch`)         |
 |  align-self   | same as flexbox. will override general alignment |
 | justify-self  | same as flexbox. will override general alignment |
+
+### Leveraging Grid Areas
+
+Look for a resource for this topic.
