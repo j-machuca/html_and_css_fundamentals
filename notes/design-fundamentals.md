@@ -182,6 +182,14 @@ Border radius is usually present in the following elements
 
 ## Whitespace
 
+Whitespace as the name suggests is the space that exists between elements.
+
+It helps the user understand how pieces are information are related to each other.
+
+Allows us to separate elements and declutter the interface.
+
+Elements that are closer to each other are related.
+
 ## Visual Hierarchy
 
 ## User Experience
